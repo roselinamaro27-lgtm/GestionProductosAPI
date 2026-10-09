@@ -77,4 +77,4 @@ GestionProductosAPI/
 
 
 Proyecto académico desarrollado como práctica de ASP.NET Core Web API, operaciones CRUD, Entity Framework Core y conexión a SQL Server.
-Proyecto creado por Reselin Amaro Acevedo
+Proyecto creado por Roselin Amaro Acevedo
