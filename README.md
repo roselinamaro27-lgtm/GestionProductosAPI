@@ -75,6 +75,6 @@ GestionProductosAPI/
 6. Ejecutar el proyecto desde Visual Studio.
 7. Utilizar Swagger para consultar y probar los endpoints de la API.
 
-## Autor
 
 Proyecto académico desarrollado como práctica de ASP.NET Core Web API, operaciones CRUD, Entity Framework Core y conexión a SQL Server.
+Proyecto creado por Reselin Amaro Acevedo
